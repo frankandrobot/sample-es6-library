@@ -17,3 +17,8 @@ import foo from 'sample-es6-library/dist/legacy/index'
 // Node.js
 const foo = require('sample-es6-library')
 ```
+
+JSFiddle support:
+
+- `dist/legacy-umd/index.js` is a UMD bundle that can be put behind a
+  CDN and loaded via a `<script>` tag.
