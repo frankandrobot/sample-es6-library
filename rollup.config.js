@@ -17,7 +17,7 @@ export default {
     file: 'dist/legacy-umd/index.js',
     format: 'umd'
   },
-  name: 'js-go-channels',
+  name: 'sample-es6-library',
   sourcemap: true,
   plugins: [
     sourcemaps(),
